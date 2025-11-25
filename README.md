@@ -7,4 +7,4 @@ source .venv/bin/activate
 ```
 I mainly use the .srt file to import the captions into CapCut, where I then do the final editing.
 
-The code is not perfect and may have some errors in the captions, but it's easily editable, so that is fine.
+Although the code may not be perfect and could contain errors in the captions, it is easily editable, which makes it acceptable.
